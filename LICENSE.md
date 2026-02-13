@@ -1,7 +1,5 @@
-================================================================================
-                        The SOUP License (SOUP-1.0)
-                           Version 1.0, October 2025-2026
-================================================================================
+The SOUP License (SOUP-1.0)
+Version 1.0, October 2025-2026
 
 Copyright (c) 2025-2026 Padej_
 
@@ -10,9 +8,7 @@ SOUP = Source-Only User Permission
 Source code is available for viewing only. Usage requires permission from the
 copyright holder.
 
-================================================================================
-                           TERMS AND CONDITIONS
-================================================================================
+TERMS AND CONDITIONS
 
 1. PERMISSIONS
 
